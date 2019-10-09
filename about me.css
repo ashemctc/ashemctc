@@ -1,0 +1,17 @@
+hi {
+    color: red
+    border-style: double
+    border-colour:blueviolet
+    padding: 20px;
+
+
+}
+
+#no1 {
+    color: green;
+
+}
+.fancybullets{
+    
+list-style-type: square  
+}
