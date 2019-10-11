@@ -1,10 +1,10 @@
 <html>
 <body>
 <h1 style="background-color:rgba(201, 189, 244, 0.5)" >
-<p style="text-align:center;">About me </p>   
+My name is Nicholas Ashe    
 </h1>
 <p>
-Hi, im Nick a 26 y/o returing student at Mount West. I have Lived in Huntington West Virginia for 6 years.
+I am 26 years old, returing student at Mount West. I have Lived in Huntington West Virginia for 6 years.
 </p>
 
 
